@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tipu\\OneDrive - Gcs Inc\\Documents\\TEST DEVOPS\\TEST DEVOPS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tipu\\OneDrive - Gcs Inc\\Documents\\TEST DEVOPS\\TEST DEVOPS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tipu\\OneDrive - Gcs Inc\\Documents\\TEST DEVOPS\\TEST DEVOPS.csproj",
+        "projectName": "TEST DEVOPS",
+        "projectPath": "C:\\Users\\tipu\\OneDrive - Gcs Inc\\Documents\\TEST DEVOPS\\TEST DEVOPS.csproj",
+        "packagesPath": "C:\\Users\\tipu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tipu\\OneDrive - Gcs Inc\\Documents\\TEST DEVOPS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tipu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
